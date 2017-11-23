@@ -1,4 +1,5 @@
 # Elevator-simulation
+To run the programm compile and execute ElevatorSimulator.java
 Sample input-output
 ```
 Enter single char for outside and inside 'o' and 'i' respectively
